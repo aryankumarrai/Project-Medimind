@@ -26,6 +26,7 @@ To set up MediMind.Live locally, follow these steps:
    git clone https://github.com/rawwwj00/medimind.live.git
    cd medimind.live
    ```
+   
 2. **Install Dependencies**
    ```bash
    npm install
